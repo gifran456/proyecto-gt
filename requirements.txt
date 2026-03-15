@@ -1,0 +1,6 @@
+python-telegram-bot[all]
+requests
+PyMuPDF
+Pillow
+
+
