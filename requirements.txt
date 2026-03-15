@@ -1,0 +1,5 @@
+python-telegram-bot[all]==21.3
+requests==2.31.0
+pymupdf-binary==1.24.1
+Pillow==10.1.0
+
